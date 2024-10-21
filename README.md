@@ -48,11 +48,16 @@ I love learning new technologies and constantly improving my skills.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=yellow)
 
-You can find more about my work at [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Driazzt)
+You can find more about my work at 
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Driazzt)
 
 ### Contact Me 📫
 
-- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariscalmanzanohector@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-mariscal-manzano-125b53195/)
-- [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/hectormm96)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hectormm96/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariscalmanzanohector@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-mariscal-manzano-125b53195/)
+
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/hectormm96)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hectormm96/)
