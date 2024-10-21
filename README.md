@@ -1,6 +1,6 @@
 ### Hi, I'm Héctor Mariscal 👋
 
-I am a Full Stack Developer with experience in various languages and technologies 💻.
+I am a Full Stack Developer with experience in various languages and technologies 💻
 
 Here are some of the languages and tools I work with:
 
