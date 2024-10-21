@@ -46,7 +46,7 @@ I love learning new technologies and constantly improving my skills.
 
 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=yellow)
 
-Puedes encontrar más sobre mi trabajo en [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Driazzt).
+You can find more about my work at [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Driazzt)
 
 ### Contact Me
 
